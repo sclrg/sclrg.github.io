@@ -169,6 +169,16 @@ To remove the effect set the attachment to scroll
   min-height: 100%;
 }
 
+.pimg2main{
+  background-image: url("../images/image2.jpeg");
+  min-height: 100%;
+}
+
+.pimg3main{
+  background-image: url("../images/image2.jpeg");
+  min-height: 100%;
+}
+
 .pimg2{
   background-image: url("../images/image2.jpeg");
   min-height: 400px;
