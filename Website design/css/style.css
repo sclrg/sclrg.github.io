@@ -123,7 +123,7 @@ To remove the effect set the attachment to scroll
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
 }
 
 .pimg1{
