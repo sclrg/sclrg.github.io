@@ -158,12 +158,12 @@ To remove the effect set the attachment to scroll
 
 .section-light{
   background-color: #f4f4f4;
-  color: #666
+  color: #666;
 }
 
 .section-dark{
   background-color: #282e34;
-  color: #ddd
+  color: #ddd;
 }
 
 .ptext{
