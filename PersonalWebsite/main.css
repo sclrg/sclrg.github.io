@@ -75,7 +75,7 @@ listname{
 .page-section{
     width: 70%;
     margin: 20px;
-    background: #C4EDBA;
+    background: #181A18;
     display: inline-block;
 }
 
@@ -84,7 +84,7 @@ listname{
 }
 
 .detail {
-    color: #181A18;
+    color: #C4EDBA;
     font-size: 20px;
 }
 
