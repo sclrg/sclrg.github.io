@@ -1,0 +1,105 @@
+/* Global styles */
+
+
+
+body{
+    font-family: monospace;
+    background-color: #1e281e;
+    margin: 0;
+}
+
+.clearfix{
+    clear: both;
+}
+
+listname{
+    color: #3D8D2B;
+}
+
+/* Header style */
+
+.nav{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.nav-box{
+    display: inline-block;
+    height: 100px;
+    width: 20%;
+    
+}
+.nav-box a{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    background: #DAF7A6;
+    color: #181A18;
+    border-radius: 16px;
+    height: 100%;
+    font-size: 40px;
+    line-height: 90px;
+    border: 4px solid #181A18;
+}
+
+.nav-box a:hover,
+.nav-box a:active{
+    background: #181A18;
+    color: #DAF7A6;
+    border: 4px solid #EAEEE9;
+    box-shadow: 2px 2px 2px 2px rgba(255, 255, 255, 0.5);
+}
+
+
+
+/****** Main style ********/
+
+/*Name*/
+
+.website-title{
+    padding: 50px;
+    background: #181A18;
+    color: #EAEEE9;
+    text-align: center;
+}
+
+/*Page-section*/
+
+#about,
+#experience,
+#contact{
+    text-align: center;
+}
+
+
+.page-section{
+    width: 70%;
+    margin: 20px;
+    background: #C4EDBA;
+    display: inline-block;
+}
+
+.title{
+    color: #3D8D2B;
+}
+
+.detail {
+    color: #181A18;
+    font-size: 20px;
+}
+
+
+/*Footer*/
+
+.footer{
+    background: #181A18;
+    color: #C4EDBA;
+    text-align: right;
+    height: 50px;
+}
+
+.footer-text{
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
